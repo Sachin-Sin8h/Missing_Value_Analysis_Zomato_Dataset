@@ -4,7 +4,7 @@ The real-world data often has a lot of missing values. The cause of missing valu
 Steps followed in the analyis: (covered in the notebook)
 1. Exploring the dataset
 2. Cleaning the data
-3. Missing value analysis (MAR/MNAR analsysis using missingno package)
+3. Missing value analysis (MAR/MNAR analysis using missingno package)
 4. Handling missing values (Required imputations)
 5. EDA & visualizations
 6. Link to access dataset on Kaggle:  https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset?select=zomato.csv
